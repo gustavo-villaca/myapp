@@ -1,1 +1,2 @@
 testando vscode com git
+alterando arquivo existente
